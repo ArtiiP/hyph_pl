@@ -24,7 +24,9 @@ znajdziesz zwykłą wersje (bez obsługi "zlepków"), należy ja wgrać do:
 ### Czytniki e-ink inkBook ###
 (InkBOOK: ONYX, Obsidian, 8 ale nie Clasic, także Bouye i Icarus)
 
-Wymaga roota wgraj do `/system/adobe/resources/hyphenDicts` jak nie działa to użyj _vanilla/hyph_pl.dic_ 
+Wgraj do `/system/adobe/resources/hyphenDicts` jak nie działa to użyj _vanilla/hyph_pl.dic_ 
+
+Wymaga roota
 
 ### ADE PC (komputer) ###
 Jest duża szansa że musisz umieścić plik tutaj
@@ -44,7 +46,7 @@ ekranu powitalnego) skorzystaj z wersji w katalogu onyx.
 ### mantano reader ###
 (RMSDK 9.3.3 2013Nov01)
 
-plik libhyph_pl.so z katalogu mantano.reader wgrać do 
+plik _mantano.reader/libhyph_pl.so_ wgrać do 
 `/data/data/com.mantano.reader.android.lite/lib/`
 
 ### obrrey PocketBook ###
@@ -56,7 +58,7 @@ wgraj plik dla pb do
 
 Technikalia i po co ten plik a nie inny:
 ========================================
-ADE dla czytników ma przykra właściwość traktowania wielu znaków (twarda spacja, 
+ADE dla czytników ma przykrą właściwość traktowania wielu znaków (twarda spacja, 
 cudzysłowy) jako znaki należące do wyrazu go otaczającego - zamiast potraktować
 je jako znaki białe. Przez takie zachowanie powstają błędne podziały, pomimo 
 poprawnych reguł.
