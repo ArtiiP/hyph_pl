@@ -1,16 +1,16 @@
 UTF-8
 LEFTHYPHENMIN 2
 RIGHTHYPHENMIN 3
-% v3
-% Tylko i wyłącznie dla zepsutego ADE (RMSDK) wersja 2 i 3
-% proszę nie używać do innych celów.
-% 
-%   Plik stworzony przez Ar't w 2014 na podstawie pliku 
-% hyph_pl.tex z TeX-a.
-%   Poprawia błędne podziały dla sztuczki przeciwdziałania wiszącym
-% spójnikom stosowanej w wielu polskich epub-ach (a błędnie 
-% interpretowanej przez ADE jako jeden połączony wyraz)
-%  
+%% v3
+%% Tylko i wyłącznie dla zepsutego ADE (RMSDK) wersja 2 i 3
+%% proszę nie używać do innych celów.
+%% 
+%%   Plik stworzony przez Ar't w 2014 na podstawie pliku 
+%% hyph_pl.tex z TeX-a.
+%%   Poprawia błędne podziały dla sztuczki przeciwdziałania 
+%% wiszącym spójnikom stosowanej w wielu polskich epub-ach 
+%% (a błędnie interpretowanej przez ADE jako jeden wyraz)
+%%  
 8 8
 8 8a
 8 8ą
