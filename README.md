@@ -1,5 +1,6 @@
 # hyph_pl
 
+Public Domain z wymogiem zachowania tekstów z nagłówków.
 
 Plik hyph_pl.dic tylko dla ADE
 ==============================
