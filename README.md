@@ -19,10 +19,13 @@ go zobaczyć  google: windows (wersja) pokaż ukryte foldery
 Powyższy plik nie działa na onyxach więc w katalogu _vanilla/hyph_pl.dic_ 
 znajdziesz zwykłą wersje (bez obsługi "zlepków"), należy ja wgrać do:
 `/system/adobe/resources/hyphenDicts`
+
+Wcześniej wypróbuj ten specjalny.
+
 (wymaga jakiegoś managera plików i roota)
 
 ### Czytniki e-ink inkBook ###
-(InkBOOK: ONYX, Obsidian, 8 ale nie Clasic, także Bouye i Icarus)
+(InkBOOK: ONYX, Obsidian, 8; także Bouye i Icarus)
 
 Wgraj do `/system/adobe/resources/hyphenDicts` jak nie działa to użyj _vanilla/hyph_pl.dic_ 
 
