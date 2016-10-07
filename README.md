@@ -1,6 +1,6 @@
 # hyph_pl
 
-Public Domain z wymogiem zachowania tekstów z nagłówków.
+licencja: Public Domain z wymogiem zachowania tekstów z nagłówków.
 
 Plik hyph_pl.dic tylko dla ADE
 ==============================
@@ -46,6 +46,8 @@ ekranu powitalnego) skorzystaj z wersji w katalogu onyx.
 
 ### appki typowo androidowe dla tabletów opartych na ADE ###
 "/data/data/" może być jakimś innym katalogiem
+
+Wszystkie poniższe wymagają praw roota
 
 ### mantano reader ###
 (RMSDK 9.3.3 2013Nov01)
