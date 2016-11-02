@@ -17,11 +17,9 @@ go zobaczyć  google: windows (wersja) pokaż ukryte foldery
 ### Czytniki e-ink Onyx ###
 (Onyx Reader i Onyx Neo Reader)
 
-Powyższy plik nie działa na onyxach więc w katalogu _vanilla/hyph_pl.dic_ 
-znajdziesz zwykłą wersje (bez obsługi "zlepków"), należy ja wgrać do:
 `/system/adobe/resources/hyphenDicts`
 
-Wcześniej wypróbuj ten specjalny.
+Namawiam jednak byś wypróbował ten specjalny, i napisał czy działa.
 
 (wymaga jakiegoś managera plików i roota)
 
@@ -42,7 +40,7 @@ bądź
 poszukaj na czytniku katalogu hyphenDicts w nim powinny być plik hyph_en.dic 
 i kilka innych podobnie nazwanych, wgraj tam hyph_pl.dic dla PB, 
 jeśli czytnik po otwarciu polskich książek będzie się wieszał (lub wychodził do 
-ekranu powitalnego) skorzystaj z wersji w katalogu onyx.
+ekranu powitalnego) skorzystaj z _vanilla/hyph_pl.dic_.
 
 ### appki typowo androidowe dla tabletów opartych na ADE ###
 "/data/data/" może być jakimś innym katalogiem
